@@ -1,0 +1,14 @@
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\bin\Debug\net8.0\Lesson1_枚举.exe
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\bin\Debug\net8.0\Lesson1_枚举.deps.json
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\bin\Debug\net8.0\Lesson1_枚举.runtimeconfig.json
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\bin\Debug\net8.0\Lesson1_枚举.dll
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\bin\Debug\net8.0\Lesson1_枚举.pdb
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\obj\Debug\net8.0\Lesson1_枚举.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\obj\Debug\net8.0\Lesson1_枚举.AssemblyInfoInputs.cache
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\obj\Debug\net8.0\Lesson1_枚举.AssemblyInfo.cs
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\obj\Debug\net8.0\Lesson1_枚举.csproj.CoreCompileInputs.cache
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\obj\Debug\net8.0\Lesson1_枚举.dll
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\obj\Debug\net8.0\refint\Lesson1_枚举.dll
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\obj\Debug\net8.0\Lesson1_枚举.pdb
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\obj\Debug\net8.0\Lesson1_枚举.genruntimeconfig.cache
+C:\Users\86182\source\repos\CSharp基础教学\Lesson1_枚举\obj\Debug\net8.0\ref\Lesson1_枚举.dll

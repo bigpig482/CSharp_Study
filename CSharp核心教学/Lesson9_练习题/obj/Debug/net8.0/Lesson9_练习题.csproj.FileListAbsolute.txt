@@ -1,0 +1,14 @@
+D:\unity study\CSharp核心教学\Lesson9_练习题\bin\Debug\net8.0\Lesson9_练习题.exe
+D:\unity study\CSharp核心教学\Lesson9_练习题\bin\Debug\net8.0\Lesson9_练习题.deps.json
+D:\unity study\CSharp核心教学\Lesson9_练习题\bin\Debug\net8.0\Lesson9_练习题.runtimeconfig.json
+D:\unity study\CSharp核心教学\Lesson9_练习题\bin\Debug\net8.0\Lesson9_练习题.dll
+D:\unity study\CSharp核心教学\Lesson9_练习题\bin\Debug\net8.0\Lesson9_练习题.pdb
+D:\unity study\CSharp核心教学\Lesson9_练习题\obj\Debug\net8.0\Lesson9_练习题.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity study\CSharp核心教学\Lesson9_练习题\obj\Debug\net8.0\Lesson9_练习题.AssemblyInfoInputs.cache
+D:\unity study\CSharp核心教学\Lesson9_练习题\obj\Debug\net8.0\Lesson9_练习题.AssemblyInfo.cs
+D:\unity study\CSharp核心教学\Lesson9_练习题\obj\Debug\net8.0\Lesson9_练习题.csproj.CoreCompileInputs.cache
+D:\unity study\CSharp核心教学\Lesson9_练习题\obj\Debug\net8.0\Lesson9_练习题.dll
+D:\unity study\CSharp核心教学\Lesson9_练习题\obj\Debug\net8.0\refint\Lesson9_练习题.dll
+D:\unity study\CSharp核心教学\Lesson9_练习题\obj\Debug\net8.0\Lesson9_练习题.pdb
+D:\unity study\CSharp核心教学\Lesson9_练习题\obj\Debug\net8.0\Lesson9_练习题.genruntimeconfig.cache
+D:\unity study\CSharp核心教学\Lesson9_练习题\obj\Debug\net8.0\ref\Lesson9_练习题.dll

@@ -1,0 +1,14 @@
+E:\unity study\CSharp入门实践教程\入门实践\bin\Debug\net8.0\入门实践.exe
+E:\unity study\CSharp入门实践教程\入门实践\bin\Debug\net8.0\入门实践.deps.json
+E:\unity study\CSharp入门实践教程\入门实践\bin\Debug\net8.0\入门实践.runtimeconfig.json
+E:\unity study\CSharp入门实践教程\入门实践\bin\Debug\net8.0\入门实践.dll
+E:\unity study\CSharp入门实践教程\入门实践\bin\Debug\net8.0\入门实践.pdb
+E:\unity study\CSharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity study\CSharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.AssemblyInfoInputs.cache
+E:\unity study\CSharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.AssemblyInfo.cs
+E:\unity study\CSharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.csproj.CoreCompileInputs.cache
+E:\unity study\CSharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.dll
+E:\unity study\CSharp入门实践教程\入门实践\obj\Debug\net8.0\refint\入门实践.dll
+E:\unity study\CSharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.pdb
+E:\unity study\CSharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.genruntimeconfig.cache
+E:\unity study\CSharp入门实践教程\入门实践\obj\Debug\net8.0\ref\入门实践.dll

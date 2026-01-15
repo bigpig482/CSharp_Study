@@ -1,0 +1,14 @@
+D:\unity study\CSharp进阶教程\Lesson7_List\bin\Debug\net8.0\Lesson7_List.exe
+D:\unity study\CSharp进阶教程\Lesson7_List\bin\Debug\net8.0\Lesson7_List.deps.json
+D:\unity study\CSharp进阶教程\Lesson7_List\bin\Debug\net8.0\Lesson7_List.runtimeconfig.json
+D:\unity study\CSharp进阶教程\Lesson7_List\bin\Debug\net8.0\Lesson7_List.dll
+D:\unity study\CSharp进阶教程\Lesson7_List\bin\Debug\net8.0\Lesson7_List.pdb
+D:\unity study\CSharp进阶教程\Lesson7_List\obj\Debug\net8.0\Lesson7_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity study\CSharp进阶教程\Lesson7_List\obj\Debug\net8.0\Lesson7_List.AssemblyInfoInputs.cache
+D:\unity study\CSharp进阶教程\Lesson7_List\obj\Debug\net8.0\Lesson7_List.AssemblyInfo.cs
+D:\unity study\CSharp进阶教程\Lesson7_List\obj\Debug\net8.0\Lesson7_List.csproj.CoreCompileInputs.cache
+D:\unity study\CSharp进阶教程\Lesson7_List\obj\Debug\net8.0\Lesson7_List.dll
+D:\unity study\CSharp进阶教程\Lesson7_List\obj\Debug\net8.0\refint\Lesson7_List.dll
+D:\unity study\CSharp进阶教程\Lesson7_List\obj\Debug\net8.0\Lesson7_List.pdb
+D:\unity study\CSharp进阶教程\Lesson7_List\obj\Debug\net8.0\Lesson7_List.genruntimeconfig.cache
+D:\unity study\CSharp进阶教程\Lesson7_List\obj\Debug\net8.0\ref\Lesson7_List.dll

@@ -1,0 +1,14 @@
+D:\unity study\CSharp进阶教程\Lesson19_练习题\bin\Debug\net8.0\Lesson19_练习题.exe
+D:\unity study\CSharp进阶教程\Lesson19_练习题\bin\Debug\net8.0\Lesson19_练习题.deps.json
+D:\unity study\CSharp进阶教程\Lesson19_练习题\bin\Debug\net8.0\Lesson19_练习题.runtimeconfig.json
+D:\unity study\CSharp进阶教程\Lesson19_练习题\bin\Debug\net8.0\Lesson19_练习题.dll
+D:\unity study\CSharp进阶教程\Lesson19_练习题\bin\Debug\net8.0\Lesson19_练习题.pdb
+D:\unity study\CSharp进阶教程\Lesson19_练习题\obj\Debug\net8.0\Lesson19_练习题.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity study\CSharp进阶教程\Lesson19_练习题\obj\Debug\net8.0\Lesson19_练习题.AssemblyInfoInputs.cache
+D:\unity study\CSharp进阶教程\Lesson19_练习题\obj\Debug\net8.0\Lesson19_练习题.AssemblyInfo.cs
+D:\unity study\CSharp进阶教程\Lesson19_练习题\obj\Debug\net8.0\Lesson19_练习题.csproj.CoreCompileInputs.cache
+D:\unity study\CSharp进阶教程\Lesson19_练习题\obj\Debug\net8.0\Lesson19_练习题.dll
+D:\unity study\CSharp进阶教程\Lesson19_练习题\obj\Debug\net8.0\refint\Lesson19_练习题.dll
+D:\unity study\CSharp进阶教程\Lesson19_练习题\obj\Debug\net8.0\Lesson19_练习题.pdb
+D:\unity study\CSharp进阶教程\Lesson19_练习题\obj\Debug\net8.0\Lesson19_练习题.genruntimeconfig.cache
+D:\unity study\CSharp进阶教程\Lesson19_练习题\obj\Debug\net8.0\ref\Lesson19_练习题.dll

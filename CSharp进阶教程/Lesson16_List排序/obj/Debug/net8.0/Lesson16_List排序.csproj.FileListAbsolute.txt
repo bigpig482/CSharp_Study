@@ -1,0 +1,14 @@
+D:\unity study\CSharp进阶教程\Lesson16_List排序\bin\Debug\net8.0\Lesson16_List排序.exe
+D:\unity study\CSharp进阶教程\Lesson16_List排序\bin\Debug\net8.0\Lesson16_List排序.deps.json
+D:\unity study\CSharp进阶教程\Lesson16_List排序\bin\Debug\net8.0\Lesson16_List排序.runtimeconfig.json
+D:\unity study\CSharp进阶教程\Lesson16_List排序\bin\Debug\net8.0\Lesson16_List排序.dll
+D:\unity study\CSharp进阶教程\Lesson16_List排序\bin\Debug\net8.0\Lesson16_List排序.pdb
+D:\unity study\CSharp进阶教程\Lesson16_List排序\obj\Debug\net8.0\Lesson16_List排序.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity study\CSharp进阶教程\Lesson16_List排序\obj\Debug\net8.0\Lesson16_List排序.AssemblyInfoInputs.cache
+D:\unity study\CSharp进阶教程\Lesson16_List排序\obj\Debug\net8.0\Lesson16_List排序.AssemblyInfo.cs
+D:\unity study\CSharp进阶教程\Lesson16_List排序\obj\Debug\net8.0\Lesson16_List排序.csproj.CoreCompileInputs.cache
+D:\unity study\CSharp进阶教程\Lesson16_List排序\obj\Debug\net8.0\Lesson16_List排序.dll
+D:\unity study\CSharp进阶教程\Lesson16_List排序\obj\Debug\net8.0\refint\Lesson16_List排序.dll
+D:\unity study\CSharp进阶教程\Lesson16_List排序\obj\Debug\net8.0\Lesson16_List排序.pdb
+D:\unity study\CSharp进阶教程\Lesson16_List排序\obj\Debug\net8.0\Lesson16_List排序.genruntimeconfig.cache
+D:\unity study\CSharp进阶教程\Lesson16_List排序\obj\Debug\net8.0\ref\Lesson16_List排序.dll

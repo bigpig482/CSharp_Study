@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson21_面向对象相关_命名空间/1.0.0": {
+        "runtime": {
+          "Lesson21_面向对象相关_命名空间.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson21_面向对象相关_命名空间/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

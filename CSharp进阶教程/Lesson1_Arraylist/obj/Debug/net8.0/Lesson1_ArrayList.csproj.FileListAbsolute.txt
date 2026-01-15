@@ -1,0 +1,14 @@
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\bin\Debug\net8.0\Lesson1_ArrayList.exe
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\bin\Debug\net8.0\Lesson1_ArrayList.deps.json
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\bin\Debug\net8.0\Lesson1_ArrayList.runtimeconfig.json
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\bin\Debug\net8.0\Lesson1_ArrayList.dll
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\bin\Debug\net8.0\Lesson1_ArrayList.pdb
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\obj\Debug\net8.0\Lesson1_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\obj\Debug\net8.0\Lesson1_ArrayList.AssemblyInfoInputs.cache
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\obj\Debug\net8.0\Lesson1_ArrayList.AssemblyInfo.cs
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\obj\Debug\net8.0\Lesson1_ArrayList.csproj.CoreCompileInputs.cache
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\obj\Debug\net8.0\Lesson1_ArrayList.dll
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\obj\Debug\net8.0\refint\Lesson1_ArrayList.dll
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\obj\Debug\net8.0\Lesson1_ArrayList.pdb
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\obj\Debug\net8.0\Lesson1_ArrayList.genruntimeconfig.cache
+D:\unity study\CSharp进阶教程\Lesson1_Arraylist\obj\Debug\net8.0\ref\Lesson1_ArrayList.dll

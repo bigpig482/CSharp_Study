@@ -1,0 +1,14 @@
+E:\unity study\CSharp基础教学\Lesson12_结构体\bin\Debug\net8.0\Lesson12_结构体.exe
+E:\unity study\CSharp基础教学\Lesson12_结构体\bin\Debug\net8.0\Lesson12_结构体.deps.json
+E:\unity study\CSharp基础教学\Lesson12_结构体\bin\Debug\net8.0\Lesson12_结构体.runtimeconfig.json
+E:\unity study\CSharp基础教学\Lesson12_结构体\bin\Debug\net8.0\Lesson12_结构体.dll
+E:\unity study\CSharp基础教学\Lesson12_结构体\bin\Debug\net8.0\Lesson12_结构体.pdb
+E:\unity study\CSharp基础教学\Lesson12_结构体\obj\Debug\net8.0\Lesson12_结构体.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity study\CSharp基础教学\Lesson12_结构体\obj\Debug\net8.0\Lesson12_结构体.AssemblyInfoInputs.cache
+E:\unity study\CSharp基础教学\Lesson12_结构体\obj\Debug\net8.0\Lesson12_结构体.AssemblyInfo.cs
+E:\unity study\CSharp基础教学\Lesson12_结构体\obj\Debug\net8.0\Lesson12_结构体.csproj.CoreCompileInputs.cache
+E:\unity study\CSharp基础教学\Lesson12_结构体\obj\Debug\net8.0\Lesson12_结构体.dll
+E:\unity study\CSharp基础教学\Lesson12_结构体\obj\Debug\net8.0\refint\Lesson12_结构体.dll
+E:\unity study\CSharp基础教学\Lesson12_结构体\obj\Debug\net8.0\Lesson12_结构体.pdb
+E:\unity study\CSharp基础教学\Lesson12_结构体\obj\Debug\net8.0\Lesson12_结构体.genruntimeconfig.cache
+E:\unity study\CSharp基础教学\Lesson12_结构体\obj\Debug\net8.0\ref\Lesson12_结构体.dll

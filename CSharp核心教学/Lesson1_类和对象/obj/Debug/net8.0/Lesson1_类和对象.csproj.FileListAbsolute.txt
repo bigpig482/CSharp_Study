@@ -1,0 +1,14 @@
+D:\unity study\CSharp核心教学\Lesson1_类和对象\bin\Debug\net8.0\Lesson1_类和对象.exe
+D:\unity study\CSharp核心教学\Lesson1_类和对象\bin\Debug\net8.0\Lesson1_类和对象.deps.json
+D:\unity study\CSharp核心教学\Lesson1_类和对象\bin\Debug\net8.0\Lesson1_类和对象.runtimeconfig.json
+D:\unity study\CSharp核心教学\Lesson1_类和对象\bin\Debug\net8.0\Lesson1_类和对象.dll
+D:\unity study\CSharp核心教学\Lesson1_类和对象\bin\Debug\net8.0\Lesson1_类和对象.pdb
+D:\unity study\CSharp核心教学\Lesson1_类和对象\obj\Debug\net8.0\Lesson1_类和对象.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity study\CSharp核心教学\Lesson1_类和对象\obj\Debug\net8.0\Lesson1_类和对象.AssemblyInfoInputs.cache
+D:\unity study\CSharp核心教学\Lesson1_类和对象\obj\Debug\net8.0\Lesson1_类和对象.AssemblyInfo.cs
+D:\unity study\CSharp核心教学\Lesson1_类和对象\obj\Debug\net8.0\Lesson1_类和对象.csproj.CoreCompileInputs.cache
+D:\unity study\CSharp核心教学\Lesson1_类和对象\obj\Debug\net8.0\Lesson1_类和对象.dll
+D:\unity study\CSharp核心教学\Lesson1_类和对象\obj\Debug\net8.0\refint\Lesson1_类和对象.dll
+D:\unity study\CSharp核心教学\Lesson1_类和对象\obj\Debug\net8.0\Lesson1_类和对象.pdb
+D:\unity study\CSharp核心教学\Lesson1_类和对象\obj\Debug\net8.0\Lesson1_类和对象.genruntimeconfig.cache
+D:\unity study\CSharp核心教学\Lesson1_类和对象\obj\Debug\net8.0\ref\Lesson1_类和对象.dll

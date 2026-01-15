@@ -1,0 +1,14 @@
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\bin\Debug\net8.0\Lesson24_值和引用.exe
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\bin\Debug\net8.0\Lesson24_值和引用.deps.json
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\bin\Debug\net8.0\Lesson24_值和引用.runtimeconfig.json
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\bin\Debug\net8.0\Lesson24_值和引用.dll
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\bin\Debug\net8.0\Lesson24_值和引用.pdb
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\obj\Debug\net8.0\Lesson24_值和引用.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\obj\Debug\net8.0\Lesson24_值和引用.AssemblyInfoInputs.cache
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\obj\Debug\net8.0\Lesson24_值和引用.AssemblyInfo.cs
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\obj\Debug\net8.0\Lesson24_值和引用.csproj.CoreCompileInputs.cache
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\obj\Debug\net8.0\Lesson24_值和引用.dll
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\obj\Debug\net8.0\refint\Lesson24_值和引用.dll
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\obj\Debug\net8.0\Lesson24_值和引用.pdb
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\obj\Debug\net8.0\Lesson24_值和引用.genruntimeconfig.cache
+D:\unity study\CSharp进阶教程\Lesson24_值和引用\obj\Debug\net8.0\ref\Lesson24_值和引用.dll

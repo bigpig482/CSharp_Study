@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k1KxxvIcnqM=",
+  "success": true,
+  "projectFilePath": "D:\\unity study\\CSharp进阶教程\\Lesson23_特殊语法\\Lesson23_特殊语法.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\86182\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\86182\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\86182\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\86182\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

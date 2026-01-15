@@ -1,0 +1,28 @@
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\bin\Debug\net8.0\Lesson2_一维数组.exe
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\bin\Debug\net8.0\Lesson2_一维数组.deps.json
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\bin\Debug\net8.0\Lesson2_一维数组.runtimeconfig.json
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\bin\Debug\net8.0\Lesson2_一维数组.dll
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\bin\Debug\net8.0\Lesson2_一维数组.pdb
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.AssemblyInfoInputs.cache
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.AssemblyInfo.cs
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.csproj.CoreCompileInputs.cache
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.dll
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\refint\Lesson2_一维数组.dll
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.pdb
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.genruntimeconfig.cache
+C:\Users\86182\source\repos\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\ref\Lesson2_一维数组.dll
+E:\unity study\CSharp基础教学\Lesson2_数组\bin\Debug\net8.0\Lesson2_一维数组.exe
+E:\unity study\CSharp基础教学\Lesson2_数组\bin\Debug\net8.0\Lesson2_一维数组.deps.json
+E:\unity study\CSharp基础教学\Lesson2_数组\bin\Debug\net8.0\Lesson2_一维数组.runtimeconfig.json
+E:\unity study\CSharp基础教学\Lesson2_数组\bin\Debug\net8.0\Lesson2_一维数组.dll
+E:\unity study\CSharp基础教学\Lesson2_数组\bin\Debug\net8.0\Lesson2_一维数组.pdb
+E:\unity study\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity study\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.AssemblyInfoInputs.cache
+E:\unity study\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.AssemblyInfo.cs
+E:\unity study\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.csproj.CoreCompileInputs.cache
+E:\unity study\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.dll
+E:\unity study\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\refint\Lesson2_一维数组.dll
+E:\unity study\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.pdb
+E:\unity study\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\Lesson2_一维数组.genruntimeconfig.cache
+E:\unity study\CSharp基础教学\Lesson2_数组\obj\Debug\net8.0\ref\Lesson2_一维数组.dll

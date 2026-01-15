@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D4152F-3B2A-492C-94C6-8660037040FD}|Lesson22_\u8FED\u4EE3\u5668\\Lesson22_\u8FED\u4EE3\u5668.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson22_\u8FED\u4EE3\u5668\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D4152F-3B2A-492C-94C6-8660037040FD}|Lesson22_\u8FED\u4EE3\u5668\\Lesson22_\u8FED\u4EE3\u5668.csproj|solutionrelative:lesson22_\u8FED\u4EE3\u5668\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA23F19-E106-4961-AA08-E8577E283E21}|Lesson19_\u9884\u5904\u7406\u6307\u4EE4\\Lesson19_\u9884\u5904\u7406\u5668\u6307\u4EE4.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson19_\u9884\u5904\u7406\u6307\u4EE4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA23F19-E106-4961-AA08-E8577E283E21}|Lesson19_\u9884\u5904\u7406\u6307\u4EE4\\Lesson19_\u9884\u5904\u7406\u5668\u6307\u4EE4.csproj|solutionrelative:lesson19_\u9884\u5904\u7406\u6307\u4EE4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A98788F-27F2-4491-A418-08B4A702C660}|Lesson6_\u6CDB\u578B\u7EA6\u675F\\Lesson6_\u6CDB\u578B\u7EA6\u675F.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson6_\u6CDB\u578B\u7EA6\u675F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A98788F-27F2-4491-A418-08B4A702C660}|Lesson6_\u6CDB\u578B\u7EA6\u675F\\Lesson6_\u6CDB\u578B\u7EA6\u675F.csproj|solutionrelative:lesson6_\u6CDB\u578B\u7EA6\u675F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F6D6C0-581D-477E-B348-A2619A89B54C}|Lesson4_Hashtable\\Lesson4_Hashtable.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson4_hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F6D6C0-581D-477E-B348-A2619A89B54C}|Lesson4_Hashtable\\Lesson4_Hashtable.csproj|solutionrelative:lesson4_hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2266AC4-9AAC-435E-9476-FC1B3FF39304}|Lesson2_Stack\\Lesson2_Stack.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson2_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2266AC4-9AAC-435E-9476-FC1B3FF39304}|Lesson2_Stack\\Lesson2_Stack.csproj|solutionrelative:lesson2_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7EFD9D9-84C8-4E87-B138-B17105E376AB}|Lesson1_Arraylist\\Lesson1_ArrayList.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson1_arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7EFD9D9-84C8-4E87-B138-B17105E376AB}|Lesson1_Arraylist\\Lesson1_ArrayList.csproj|solutionrelative:lesson1_arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7E4CAD-E0DC-420A-8914-AD8CB963F8A6}|Lesson18_\u591A\u7EBF\u7A0B\\Lesson18_\u591A\u7EBF\u7A0B.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson18_\u591A\u7EBF\u7A0B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7E4CAD-E0DC-420A-8914-AD8CB963F8A6}|Lesson18_\u591A\u7EBF\u7A0B\\Lesson18_\u591A\u7EBF\u7A0B.csproj|solutionrelative:lesson18_\u591A\u7EBF\u7A0B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FD11E0-5A53-4758-B809-A27F31F4B1BA}|Lesson17_\u534F\u53D8\u9006\u53D8\\Lesson17_\u534F\u53D8\u9006\u53D8.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson17_\u534F\u53D8\u9006\u53D8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FD11E0-5A53-4758-B809-A27F31F4B1BA}|Lesson17_\u534F\u53D8\u9006\u53D8\\Lesson17_\u534F\u53D8\u9006\u53D8.csproj|solutionrelative:lesson17_\u534F\u53D8\u9006\u53D8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898EA30D-7700-4259-89D2-004655699F0A}|Lesson5_\u6CDB\u578B\\Lesson5_\u6CDB\u578B.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson5_\u6CDB\u578B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898EA30D-7700-4259-89D2-004655699F0A}|Lesson5_\u6CDB\u578B\\Lesson5_\u6CDB\u578B.csproj|solutionrelative:lesson5_\u6CDB\u578B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D5799B-3C25-485B-AEF3-8D74AD62C208}|Lesson12_\u59D4\u6258\\Lesson12_\u59D4\u6258.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson12_\u59D4\u6258\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D5799B-3C25-485B-AEF3-8D74AD62C208}|Lesson12_\u59D4\u6258\\Lesson12_\u59D4\u6258.csproj|solutionrelative:lesson12_\u59D4\u6258\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597F2EF6-A752-4AF4-8B32-293B38F5CD6F}|Lesson9_\u987A\u5E8F\u5B58\u50A8\u548C\u94FE\u5F0F\u5B58\u50A8\\Lesson9_\u987A\u5E8F\u5B58\u50A8\u548C\u94FE\u5F0F\u5B58\u50A8.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson9_\u987A\u5E8F\u5B58\u50A8\u548C\u94FE\u5F0F\u5B58\u50A8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597F2EF6-A752-4AF4-8B32-293B38F5CD6F}|Lesson9_\u987A\u5E8F\u5B58\u50A8\u548C\u94FE\u5F0F\u5B58\u50A8\\Lesson9_\u987A\u5E8F\u5B58\u50A8\u548C\u94FE\u5F0F\u5B58\u50A8.csproj|solutionrelative:lesson9_\u987A\u5E8F\u5B58\u50A8\u548C\u94FE\u5F0F\u5B58\u50A8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53DB410-894A-4E64-A891-7D2B4903A55E}|Lesson16_List\u6392\u5E8F\\Lesson16_List\u6392\u5E8F.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson16_list\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53DB410-894A-4E64-A891-7D2B4903A55E}|Lesson16_List\u6392\u5E8F\\Lesson16_List\u6392\u5E8F.csproj|solutionrelative:lesson16_list\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD111216-2A50-4B5A-980C-C84133E96454}|Lesson15_lambad\u8868\u8FBE\u5F0F\\Lesson15_lambad\u8868\u8FBE\u5F0F.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson15_lambad\u8868\u8FBE\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD111216-2A50-4B5A-980C-C84133E96454}|Lesson15_lambad\u8868\u8FBE\u5F0F\\Lesson15_lambad\u8868\u8FBE\u5F0F.csproj|solutionrelative:lesson15_lambad\u8868\u8FBE\u5F0F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA72E51-DA3E-49FD-9B17-9A8887A8BEC4}|Lesson14_\u533F\u540D\u51FD\u6570\\Lesson14_\u533F\u540D\u51FD\u6570.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson14_\u533F\u540D\u51FD\u6570\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA72E51-DA3E-49FD-9B17-9A8887A8BEC4}|Lesson14_\u533F\u540D\u51FD\u6570\\Lesson14_\u533F\u540D\u51FD\u6570.csproj|solutionrelative:lesson14_\u533F\u540D\u51FD\u6570\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9724847C-885F-4B56-AA24-2041F8CEDF10}|Lesson13_\u4E8B\u4EF6\\Lesson13_\u4E8B\u4EF6.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson13_\u4E8B\u4EF6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9724847C-885F-4B56-AA24-2041F8CEDF10}|Lesson13_\u4E8B\u4EF6\\Lesson13_\u4E8B\u4EF6.csproj|solutionrelative:lesson13_\u4E8B\u4EF6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B50D2D17-6A31-41E4-AD6B-710631D2F1A7}|Lesson23_\u7279\u6B8A\u8BED\u6CD5\\Lesson23_\u7279\u6B8A\u8BED\u6CD5.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson23_\u7279\u6B8A\u8BED\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B50D2D17-6A31-41E4-AD6B-710631D2F1A7}|Lesson23_\u7279\u6B8A\u8BED\u6CD5\\Lesson23_\u7279\u6B8A\u8BED\u6CD5.csproj|solutionrelative:lesson23_\u7279\u6B8A\u8BED\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3126DC5A-07B4-4CF1-922F-13990B109CA5}|Lesson20_\u53CD\u5C04\\Lesson20_\u53CD\u5C04.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson20_\u53CD\u5C04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3126DC5A-07B4-4CF1-922F-13990B109CA5}|Lesson20_\u53CD\u5C04\\Lesson20_\u53CD\u5C04.csproj|solutionrelative:lesson20_\u53CD\u5C04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB7078-B2F9-499F-80C2-8A63F3A32D02}|Lesson7_List\\Lesson7_List.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson7_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFB7078-B2F9-499F-80C2-8A63F3A32D02}|Lesson7_List\\Lesson7_List.csproj|solutionrelative:lesson7_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBFC8DE-47D0-4A04-AD00-E4E61D5525D6}|Lesson10_LinkedList\\Lesson10_LinkedList.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson10_linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBFC8DE-47D0-4A04-AD00-E4E61D5525D6}|Lesson10_LinkedList\\Lesson10_LinkedList.csproj|solutionrelative:lesson10_linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171769B9-0883-46DA-986B-BF47DDEAB8DE}|Lesson24_\u503C\u548C\u5F15\u7528\\Lesson24_\u503C\u548C\u5F15\u7528.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson24_\u503C\u548C\u5F15\u7528\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171769B9-0883-46DA-986B-BF47DDEAB8DE}|Lesson24_\u503C\u548C\u5F15\u7528\\Lesson24_\u503C\u548C\u5F15\u7528.csproj|solutionrelative:lesson24_\u503C\u548C\u5F15\u7528\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D48AC5-39A3-4B48-95DC-091C7240020F}|Lesson28_\u5FEB\u901F\u6392\u5E8F\\Lesson28_\u5FEB\u901F\u6392\u5E8F.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson28_\u5FEB\u901F\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D48AC5-39A3-4B48-95DC-091C7240020F}|Lesson28_\u5FEB\u901F\u6392\u5E8F\\Lesson28_\u5FEB\u901F\u6392\u5E8F.csproj|solutionrelative:lesson28_\u5FEB\u901F\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF2ED8F-2A7C-428D-B664-F72A1682E339}|Lesson25_\u63D2\u5165\u6392\u5E8F\\Lesson25_\u63D2\u5165\u6392\u5E8F.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson25_\u63D2\u5165\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF2ED8F-2A7C-428D-B664-F72A1682E339}|Lesson25_\u63D2\u5165\u6392\u5E8F\\Lesson25_\u63D2\u5165\u6392\u5E8F.csproj|solutionrelative:lesson25_\u63D2\u5165\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1819F22C-F068-4B9E-AD97-DF9CF5819B2D}|Lesson29_\u5806\u6392\u5E8F\\Lesson29_\u5806\u6392\u5E8F.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson29_\u5806\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1819F22C-F068-4B9E-AD97-DF9CF5819B2D}|Lesson29_\u5806\u6392\u5E8F\\Lesson29_\u5806\u6392\u5E8F.csproj|solutionrelative:lesson29_\u5806\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA525DB-2BB1-480E-90E5-4631B826A9C9}|Lesson27_\u5F52\u5E76\u6392\u5E8F\\Lesson27_\u5F52\u5E76\u6392\u5E8F.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson27_\u5F52\u5E76\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA525DB-2BB1-480E-90E5-4631B826A9C9}|Lesson27_\u5F52\u5E76\u6392\u5E8F\\Lesson27_\u5F52\u5E76\u6392\u5E8F.csproj|solutionrelative:lesson27_\u5F52\u5E76\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC68447-6A3C-413C-82C5-D5ADB9F16CA1}|Lesson26_\u5E0C\u5C14\u6392\u5E8F\\Lesson26_\u5E0C\u5C14\u6392\u5E8F.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson26_\u5E0C\u5C14\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC68447-6A3C-413C-82C5-D5ADB9F16CA1}|Lesson26_\u5E0C\u5C14\u6392\u5E8F\\Lesson26_\u5E0C\u5C14\u6392\u5E8F.csproj|solutionrelative:lesson26_\u5E0C\u5C14\u6392\u5E8F\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B3ECE6-D70B-41E6-98A5-A478A8D53153}|Lesson21_\u7279\u6027\\Lesson21_\u7279\u6027.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson21_\u7279\u6027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B3ECE6-D70B-41E6-98A5-A478A8D53153}|Lesson21_\u7279\u6027\\Lesson21_\u7279\u6027.csproj|solutionrelative:lesson21_\u7279\u6027\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84FE767-EDC6-4C29-9127-19EAAFFDBDC2}|Lesson22_\u7EC3\u4E60\u9898\\Lesson22_\u7EC3\u4E60\u9898.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson22_\u7EC3\u4E60\u9898\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84FE767-EDC6-4C29-9127-19EAAFFDBDC2}|Lesson22_\u7EC3\u4E60\u9898\\Lesson22_\u7EC3\u4E60\u9898.csproj|solutionrelative:lesson22_\u7EC3\u4E60\u9898\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E174A85-5C23-47B3-B139-CF6F3962CB64}|Lesson3_Queue\\Lesson3_Queue.csproj|d:\\unity study\\csharp\u8FDB\u9636\u6559\u7A0B\\lesson3_queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E174A85-5C23-47B3-B139-CF6F3962CB64}|Lesson3_Queue\\Lesson3_Queue.csproj|solutionrelative:lesson3_queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson4_Hashtable\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson4_Hashtable\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson4_Hashtable\\Program.cs",
+              "RelativeToolTip": "Lesson4_Hashtable\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:43:42.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson6_\u6CDB\u578B\u7EA6\u675F\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson6_\u6CDB\u578B\u7EA6\u675F\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson6_\u6CDB\u578B\u7EA6\u675F\\Program.cs",
+              "RelativeToolTip": "Lesson6_\u6CDB\u578B\u7EA6\u675F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T03:03:43.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson5_\u6CDB\u578B\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson5_\u6CDB\u578B\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson5_\u6CDB\u578B\\Program.cs",
+              "RelativeToolTip": "Lesson5_\u6CDB\u578B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T06:16:26.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson7_List\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson7_List\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson7_List\\Program.cs",
+              "RelativeToolTip": "Lesson7_List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T04:03:21.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson13_\u4E8B\u4EF6\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson13_\u4E8B\u4EF6\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson13_\u4E8B\u4EF6\\Program.cs",
+              "RelativeToolTip": "Lesson13_\u4E8B\u4EF6\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:00:27.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson12_\u59D4\u6258\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson12_\u59D4\u6258\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson12_\u59D4\u6258\\Program.cs",
+              "RelativeToolTip": "Lesson12_\u59D4\u6258\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAlwCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T01:58:19.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson19_\u9884\u5904\u7406\u6307\u4EE4\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson19_\u9884\u5904\u7406\u6307\u4EE4\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson19_\u9884\u5904\u7406\u6307\u4EE4\\Program.cs",
+              "RelativeToolTip": "Lesson19_\u9884\u5904\u7406\u6307\u4EE4\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:59:12.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson10_LinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson10_LinkedList\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson10_LinkedList\\Program.cs",
+              "RelativeToolTip": "Lesson10_LinkedList\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwDEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:57:43.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson9_\u987A\u5E8F\u5B58\u50A8\u548C\u94FE\u5F0F\u5B58\u50A8\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson9_\u987A\u5E8F\u5B58\u50A8\u548C\u94FE\u5F0F\u5B58\u50A8\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson9_\u987A\u5E8F\u5B58\u50A8\u548C\u94FE\u5F0F\u5B58\u50A8\\Program.cs",
+              "RelativeToolTip": "Lesson9_\u987A\u5E8F\u5B58\u50A8\u548C\u94FE\u5F0F\u5B58\u50A8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:56:45.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson1_Arraylist\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson1_Arraylist\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson1_Arraylist\\Program.cs",
+              "RelativeToolTip": "Lesson1_Arraylist\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:58:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson16_List\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson16_List\u6392\u5E8F\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson16_List\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "Lesson16_List\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T03:56:49.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson18_\u591A\u7EBF\u7A0B\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson18_\u591A\u7EBF\u7A0B\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson18_\u591A\u7EBF\u7A0B\\Program.cs",
+              "RelativeToolTip": "Lesson18_\u591A\u7EBF\u7A0B\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T03:56:16.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson17_\u534F\u53D8\u9006\u53D8\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson17_\u534F\u53D8\u9006\u53D8\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson17_\u534F\u53D8\u9006\u53D8\\Program.cs",
+              "RelativeToolTip": "Lesson17_\u534F\u53D8\u9006\u53D8\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T03:56:07.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson29_\u5806\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson29_\u5806\u6392\u5E8F\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson29_\u5806\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "Lesson29_\u5806\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T05:37:40.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson28_\u5FEB\u901F\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson28_\u5FEB\u901F\u6392\u5E8F\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson28_\u5FEB\u901F\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "Lesson28_\u5FEB\u901F\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T04:56:29.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson27_\u5F52\u5E76\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson27_\u5F52\u5E76\u6392\u5E8F\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson27_\u5F52\u5E76\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "Lesson27_\u5F52\u5E76\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA0wDsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T03:38:11.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson26_\u5E0C\u5C14\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson26_\u5E0C\u5C14\u6392\u5E8F\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson26_\u5E0C\u5C14\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "Lesson26_\u5E0C\u5C14\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwEcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T03:07:29.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson25_\u63D2\u5165\u6392\u5E8F\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson25_\u63D2\u5165\u6392\u5E8F\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson25_\u63D2\u5165\u6392\u5E8F\\Program.cs",
+              "RelativeToolTip": "Lesson25_\u63D2\u5165\u6392\u5E8F\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwGYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:18:05.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson20_\u53CD\u5C04\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson20_\u53CD\u5C04\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson20_\u53CD\u5C04\\Program.cs",
+              "RelativeToolTip": "Lesson20_\u53CD\u5C04\\Program.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAlwKEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:55:54.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson24_\u503C\u548C\u5F15\u7528\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson24_\u503C\u548C\u5F15\u7528\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson24_\u503C\u548C\u5F15\u7528\\Program.cs",
+              "RelativeToolTip": "Lesson24_\u503C\u548C\u5F15\u7528\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T03:13:39.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson23_\u7279\u6B8A\u8BED\u6CD5\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson23_\u7279\u6B8A\u8BED\u6CD5\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson23_\u7279\u6B8A\u8BED\u6CD5\\Program.cs",
+              "RelativeToolTip": "Lesson23_\u7279\u6B8A\u8BED\u6CD5\\Program.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAIYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T01:57:45.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson21_\u7279\u6027\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson21_\u7279\u6027\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson21_\u7279\u6027\\Program.cs",
+              "RelativeToolTip": "Lesson21_\u7279\u6027\\Program.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAYwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T01:55:10.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson22_\u7EC3\u4E60\u9898\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson22_\u7EC3\u4E60\u9898\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson22_\u7EC3\u4E60\u9898\\Program.cs",
+              "RelativeToolTip": "Lesson22_\u7EC3\u4E60\u9898\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA4wDUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:41:44.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson15_lambad\u8868\u8FBE\u5F0F\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson15_lambad\u8868\u8FBE\u5F0F\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson15_lambad\u8868\u8FBE\u5F0F\\Program.cs",
+              "RelativeToolTip": "Lesson15_lambad\u8868\u8FBE\u5F0F\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:32:55.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson14_\u533F\u540D\u51FD\u6570\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson14_\u533F\u540D\u51FD\u6570\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson14_\u533F\u540D\u51FD\u6570\\Program.cs",
+              "RelativeToolTip": "Lesson14_\u533F\u540D\u51FD\u6570\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:32:48.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson22_\u8FED\u4EE3\u5668\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson22_\u8FED\u4EE3\u5668\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson22_\u8FED\u4EE3\u5668\\Program.cs",
+              "RelativeToolTip": "Lesson22_\u8FED\u4EE3\u5668\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:31:04.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson3_Queue\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson3_Queue\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson3_Queue\\Program.cs",
+              "RelativeToolTip": "Lesson3_Queue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T03:12:19.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson2_Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson2_Stack\\Program.cs",
+              "ToolTip": "D:\\unity study\\CSharp\u8FDB\u9636\u6559\u7A0B\\Lesson2_Stack\\Program.cs",
+              "RelativeToolTip": "Lesson2_Stack\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwDgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T03:12:07.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

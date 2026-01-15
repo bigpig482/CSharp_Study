@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson26_面向对象相关_抽象类和接口的区别/1.0.0": {
+        "runtime": {
+          "Lesson26_面向对象相关_抽象类和接口的区别.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson26_面向对象相关_抽象类和接口的区别/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

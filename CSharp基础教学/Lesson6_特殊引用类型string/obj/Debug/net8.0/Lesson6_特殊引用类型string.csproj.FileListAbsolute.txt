@@ -1,0 +1,14 @@
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\bin\Debug\net8.0\Lesson6_特殊引用类型string.exe
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\bin\Debug\net8.0\Lesson6_特殊引用类型string.deps.json
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\bin\Debug\net8.0\Lesson6_特殊引用类型string.runtimeconfig.json
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\bin\Debug\net8.0\Lesson6_特殊引用类型string.dll
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\bin\Debug\net8.0\Lesson6_特殊引用类型string.pdb
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.AssemblyInfoInputs.cache
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.AssemblyInfo.cs
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.csproj.CoreCompileInputs.cache
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.dll
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\refint\Lesson6_特殊引用类型string.dll
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.pdb
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.genruntimeconfig.cache
+E:\unity study\CSharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\ref\Lesson6_特殊引用类型string.dll

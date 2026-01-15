@@ -1,0 +1,14 @@
+D:\unity study\CSharp核心实践教学\贪吃蛇\bin\Debug\net8.0\贪吃蛇.exe
+D:\unity study\CSharp核心实践教学\贪吃蛇\bin\Debug\net8.0\贪吃蛇.deps.json
+D:\unity study\CSharp核心实践教学\贪吃蛇\bin\Debug\net8.0\贪吃蛇.runtimeconfig.json
+D:\unity study\CSharp核心实践教学\贪吃蛇\bin\Debug\net8.0\贪吃蛇.dll
+D:\unity study\CSharp核心实践教学\贪吃蛇\bin\Debug\net8.0\贪吃蛇.pdb
+D:\unity study\CSharp核心实践教学\贪吃蛇\obj\Debug\net8.0\贪吃蛇.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity study\CSharp核心实践教学\贪吃蛇\obj\Debug\net8.0\贪吃蛇.AssemblyInfoInputs.cache
+D:\unity study\CSharp核心实践教学\贪吃蛇\obj\Debug\net8.0\贪吃蛇.AssemblyInfo.cs
+D:\unity study\CSharp核心实践教学\贪吃蛇\obj\Debug\net8.0\贪吃蛇.csproj.CoreCompileInputs.cache
+D:\unity study\CSharp核心实践教学\贪吃蛇\obj\Debug\net8.0\贪吃蛇.dll
+D:\unity study\CSharp核心实践教学\贪吃蛇\obj\Debug\net8.0\refint\贪吃蛇.dll
+D:\unity study\CSharp核心实践教学\贪吃蛇\obj\Debug\net8.0\贪吃蛇.pdb
+D:\unity study\CSharp核心实践教学\贪吃蛇\obj\Debug\net8.0\贪吃蛇.genruntimeconfig.cache
+D:\unity study\CSharp核心实践教学\贪吃蛇\obj\Debug\net8.0\ref\贪吃蛇.dll

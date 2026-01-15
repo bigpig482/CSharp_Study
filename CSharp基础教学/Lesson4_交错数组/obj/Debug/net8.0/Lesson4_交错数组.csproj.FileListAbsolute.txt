@@ -1,0 +1,14 @@
+E:\unity study\CSharp基础教学\Lesson4_交错数组\bin\Debug\net8.0\Lesson4_交错数组.exe
+E:\unity study\CSharp基础教学\Lesson4_交错数组\bin\Debug\net8.0\Lesson4_交错数组.deps.json
+E:\unity study\CSharp基础教学\Lesson4_交错数组\bin\Debug\net8.0\Lesson4_交错数组.runtimeconfig.json
+E:\unity study\CSharp基础教学\Lesson4_交错数组\bin\Debug\net8.0\Lesson4_交错数组.dll
+E:\unity study\CSharp基础教学\Lesson4_交错数组\bin\Debug\net8.0\Lesson4_交错数组.pdb
+E:\unity study\CSharp基础教学\Lesson4_交错数组\obj\Debug\net8.0\Lesson4_交错数组.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity study\CSharp基础教学\Lesson4_交错数组\obj\Debug\net8.0\Lesson4_交错数组.AssemblyInfoInputs.cache
+E:\unity study\CSharp基础教学\Lesson4_交错数组\obj\Debug\net8.0\Lesson4_交错数组.AssemblyInfo.cs
+E:\unity study\CSharp基础教学\Lesson4_交错数组\obj\Debug\net8.0\Lesson4_交错数组.csproj.CoreCompileInputs.cache
+E:\unity study\CSharp基础教学\Lesson4_交错数组\obj\Debug\net8.0\Lesson4_交错数组.dll
+E:\unity study\CSharp基础教学\Lesson4_交错数组\obj\Debug\net8.0\refint\Lesson4_交错数组.dll
+E:\unity study\CSharp基础教学\Lesson4_交错数组\obj\Debug\net8.0\Lesson4_交错数组.pdb
+E:\unity study\CSharp基础教学\Lesson4_交错数组\obj\Debug\net8.0\Lesson4_交错数组.genruntimeconfig.cache
+E:\unity study\CSharp基础教学\Lesson4_交错数组\obj\Debug\net8.0\ref\Lesson4_交错数组.dll

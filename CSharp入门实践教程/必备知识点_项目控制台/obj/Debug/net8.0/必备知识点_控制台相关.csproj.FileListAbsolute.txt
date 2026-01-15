@@ -1,0 +1,14 @@
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\bin\Debug\net8.0\必备知识点_控制台相关.exe
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\bin\Debug\net8.0\必备知识点_控制台相关.deps.json
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\bin\Debug\net8.0\必备知识点_控制台相关.runtimeconfig.json
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\bin\Debug\net8.0\必备知识点_控制台相关.dll
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\bin\Debug\net8.0\必备知识点_控制台相关.pdb
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\obj\Debug\net8.0\必备知识点_控制台相关.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\obj\Debug\net8.0\必备知识点_控制台相关.AssemblyInfoInputs.cache
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\obj\Debug\net8.0\必备知识点_控制台相关.AssemblyInfo.cs
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\obj\Debug\net8.0\必备知识点_控制台相关.csproj.CoreCompileInputs.cache
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\obj\Debug\net8.0\必备知识点_控制台相关.dll
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\obj\Debug\net8.0\refint\必备知识点_控制台相关.dll
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\obj\Debug\net8.0\必备知识点_控制台相关.pdb
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\obj\Debug\net8.0\必备知识点_控制台相关.genruntimeconfig.cache
+E:\unity study\CSharp入门实践教程\必备知识点_项目控制台\obj\Debug\net8.0\ref\必备知识点_控制台相关.dll

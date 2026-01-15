@@ -1,0 +1,11 @@
+D:\unity study\CSharp进阶教程\类库测试\bin\Debug\net8.0\类库测试.deps.json
+D:\unity study\CSharp进阶教程\类库测试\bin\Debug\net8.0\类库测试.dll
+D:\unity study\CSharp进阶教程\类库测试\bin\Debug\net8.0\类库测试.pdb
+D:\unity study\CSharp进阶教程\类库测试\obj\Debug\net8.0\类库测试.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity study\CSharp进阶教程\类库测试\obj\Debug\net8.0\类库测试.AssemblyInfoInputs.cache
+D:\unity study\CSharp进阶教程\类库测试\obj\Debug\net8.0\类库测试.AssemblyInfo.cs
+D:\unity study\CSharp进阶教程\类库测试\obj\Debug\net8.0\类库测试.csproj.CoreCompileInputs.cache
+D:\unity study\CSharp进阶教程\类库测试\obj\Debug\net8.0\类库测试.dll
+D:\unity study\CSharp进阶教程\类库测试\obj\Debug\net8.0\refint\类库测试.dll
+D:\unity study\CSharp进阶教程\类库测试\obj\Debug\net8.0\类库测试.pdb
+D:\unity study\CSharp进阶教程\类库测试\obj\Debug\net8.0\ref\类库测试.dll

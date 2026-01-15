@@ -1,0 +1,14 @@
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\bin\Debug\net8.0\Lesson25_插入排序.exe
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\bin\Debug\net8.0\Lesson25_插入排序.deps.json
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\bin\Debug\net8.0\Lesson25_插入排序.runtimeconfig.json
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\bin\Debug\net8.0\Lesson25_插入排序.dll
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\bin\Debug\net8.0\Lesson25_插入排序.pdb
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\obj\Debug\net8.0\Lesson25_插入排序.GeneratedMSBuildEditorConfig.editorconfig
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\obj\Debug\net8.0\Lesson25_插入排序.AssemblyInfoInputs.cache
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\obj\Debug\net8.0\Lesson25_插入排序.AssemblyInfo.cs
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\obj\Debug\net8.0\Lesson25_插入排序.csproj.CoreCompileInputs.cache
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\obj\Debug\net8.0\Lesson25_插入排序.dll
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\obj\Debug\net8.0\refint\Lesson25_插入排序.dll
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\obj\Debug\net8.0\Lesson25_插入排序.pdb
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\obj\Debug\net8.0\Lesson25_插入排序.genruntimeconfig.cache
+D:\unity study\CSharp进阶教程\Lesson25_插入排序\obj\Debug\net8.0\ref\Lesson25_插入排序.dll

@@ -1,0 +1,14 @@
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\bin\Debug\net8.0\CSharp基础实践教学.exe
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\bin\Debug\net8.0\CSharp基础实践教学.deps.json
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\bin\Debug\net8.0\CSharp基础实践教学.runtimeconfig.json
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\bin\Debug\net8.0\CSharp基础实践教学.dll
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\bin\Debug\net8.0\CSharp基础实践教学.pdb
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\obj\Debug\net8.0\CSharp基础实践教学.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\obj\Debug\net8.0\CSharp基础实践教学.AssemblyInfoInputs.cache
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\obj\Debug\net8.0\CSharp基础实践教学.AssemblyInfo.cs
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\obj\Debug\net8.0\CSharp基础实践教学.csproj.CoreCompileInputs.cache
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\obj\Debug\net8.0\CSharp基础实践教学.dll
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\obj\Debug\net8.0\refint\CSharp基础实践教学.dll
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\obj\Debug\net8.0\CSharp基础实践教学.pdb
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\obj\Debug\net8.0\CSharp基础实践教学.genruntimeconfig.cache
+E:\unity study\CSharp基础实践教学\CSharp基础实践教学\obj\Debug\net8.0\ref\CSharp基础实践教学.dll
